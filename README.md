@@ -24,5 +24,4 @@ You can view the portfolio locally by opening the `index.html` file in any brows
 - Basic Responsive Design
 - Git for version control
 
-## 📁 Folder Structure
 
